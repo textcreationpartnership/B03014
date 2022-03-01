@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ordinance and declaration of the Lords and Commons, for the assessing all such who have not contributed sufficiently for raising of money, plate &amp;c. with His Maiesties [sic] declaration to all his loving subjects upon occasion thereof.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03014</idno>
+            <idno type="STC">Wing E1771D</idno>
+            <idno type="STC">ESTC R209862</idno>
+            <idno type="EEBO-CITATION">51784537</idno>
+            <idno type="OCLC">ocm 51784537</idno>
+            <idno type="VID">174946</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174946)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2706:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ordinance and declaration of the Lords and Commons, for the assessing all such who have not contributed sufficiently for raising of money, plate &amp;c. with His Maiesties [sic] declaration to all his loving subjects upon occasion thereof.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6, 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"His Maiesties declaration" has caption title and separate numbering.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Early works to 1800.</term>
+               <term>Finance, Public --  Great Britain --  To 1688.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174946:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE ORDINANCE AND DECLARATION of the LORDS and COMMONS, for the Aſſeſſing all ſuch who have not contri<g ref="char:EOLhyphen"/>buted ſufficiently for raiſing of <hi>Money, Plate, &amp;c.</hi>
+            </p>
+            <p>WITH HIS MAIESTIES DECLARATION TO all His loving Subjects upon <hi>occaſion thereof.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <signed>Charles R.</signed>
+                        </opener>
+                        <p>OUr expreſſe pleaſure is, That this Our Decla<g ref="char:EOLhyphen"/>ration be Publiſhed in all Churches and Chappels within the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> by the Parſons, Vicars or Curates of the ſame.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed by His MAJESTIES Command at <hi>OXFORD Decemb.</hi> 8.</p>
+            <p>By LEONARD LICHFIELD Printer <hi>to the Vniverſity.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174946:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:174946:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>An Ordinance and Declaration of the LORDS and COMMONS in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the King ſeduced by wicked Counſell hath rayſed an Army; and leavied Warre againſt the Parliament, and great number of Forces are daily raiſed under the commands of Papiſts and other ill-affected perſons, by Commiſſions from His Ma<g ref="char:EOLhyphen"/>jeſty; And whereas divers Delinquents are prote<g ref="char:EOLhyphen"/>cted from publike Juſtice by his Majeſties Army, and ſundry out<g ref="char:EOLhyphen"/>rages and rapines are daily committed by the Souldiers of the ſaid Army, who have no reſpect to the Lawes of God or the Land, but burne and plunder the Houſes, and ſeize and deſtroy the perſons and goods of divers His Majeſties good Subjects; And where<g ref="char:EOLhyphen"/>as for the maintenance of the ſaid Army divers aſſeſſements are made upon ſeverall Counties, and His Majeſties Subjects are com<g ref="char:EOLhyphen"/>pelled by the Souldiers to pay the ſame; which ſaid Army if it ſhould continue, would ſoon ruine and waſt the whole Kingdom, and overthrow Religion, Law, and Liberty. For ſuppreſſing of which ſaid Army and ill-affected perſons, there is no probable way under God, but by the Army raiſed by authority of the Parliament; which ſaid Army ſo raiſed, cannot be maintained without great ſummes of Money, yet for raiſing ſuch ſummes, by reaſon of His Majeſties withdrawing Himſelfe from the advice of the Parlia<g ref="char:EOLhyphen"/>ment, there can be no Act of Parliament paſſed with His Majeſties aſſent, albeit there is great Juſtice that the ſaid Monies ſhould be raiſed. The Lords and Commons in Parliament, having taken the ſame into their ſerious conſideration, and knowing that the ſaid
+<pb n="2" facs="tcp:174946:3"/>
+               <!-- PDF PAGE 3 -->army ſo raiſed by them, hath been hitherto for the moſt part main<g ref="char:EOLhyphen"/>tained by the voluntary contribution of divers well-affected per<g ref="char:EOLhyphen"/>ſons, who have freely contributed according to their abilities.</p>
+            <p>But conſidering there are divers others within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the Suburbs of the ſame, and alſo within the Borough of <hi>Southwarke,</hi> that have not contributed at all towards the maintenance of the ſaid army, or if they have, yet not anſwerable to their Eſtates, who notwithſtanding receive be<g ref="char:EOLhyphen"/>nefit and protection by the ſame army, as well as any others, and therefore it's moſt juſt, that they ſhould as well as others be char<g ref="char:EOLhyphen"/>ged to contribute to the maintenance thereof.</p>
+            <p>Be it therefore Ordained by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, and by authority thereof; that <hi>Iſaac Pennington</hi> Lord Major of the Citie of <hi>London,</hi> Sir <hi>John Wollaſton</hi> Knight and Alderman, Alderman <hi>Towes,</hi> Alderman <hi>Warner,</hi> Alderman <hi>An<g ref="char:EOLhyphen"/>drewes,</hi> Alderman <hi>Chambers,</hi> Alderman <hi>Fowkes,</hi> Sir <hi>Thomas Se<g ref="char:EOLhyphen"/>ham</hi> Knight and Alderman, <hi>Samuel Vaſſell, John Venn, Morris Thompſon,</hi> and <hi>Richard Warrin,</hi> Citizens, or any foure of them, ſhall hereby have power and authority to nominate, and appoint in every ward within the City of <hi>London,</hi> ſixe ſuch Perſons as they, or any foure of them, ſhall think fit, which ſaid ſix ſo nominated, or any foure of them, ſhall hereby have power to enquire of any that ſhall remain, or be within the ſaid ſeverall Wards that have not contributed upon the Propoſitions of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, concerning the raiſing of Mony, Plate, Horſe, Horſemen, and armes, for the defence of the King &amp; both Houſes of Parliament, &amp; alſo of ſuch as are able men, that have contributed, yet not accor<g ref="char:EOLhyphen"/>ding to their Eſtates and abilities. And the ſaid ſix perſons ſo no<g ref="char:EOLhyphen"/>minated, or any four of them within their ſeverall and reſpective wards and limits, ſhall have power to aſſeſſe ſuch perſon or per<g ref="char:EOLhyphen"/>ſons, as are of ability and have not contributed, &amp; alſo ſuch as have contributed, yet not according to their ability, to pay ſuch ſum or ſums of Mony according to their Eſtates, as the ſaid Aſſeſſors or a<g ref="char:EOLhyphen"/>ny foure of them ſhall think fit &amp; reaſonable, ſo as the ſame exceed not the twentieth part of their Eſtates, and to nominate and ap<g ref="char:EOLhyphen"/>point fit perſons for the collection therof. And if any perſon ſo aſ<g ref="char:EOLhyphen"/>ſeſſed ſhall refuſe to pay the money aſſeſſed upon him, it ſhall be lawfull to and for the ſaid Aſſeſſors and Collectors, or any of them,
+<pb n="3" facs="tcp:174946:3"/>
+               <!-- PDF PAGE 3 -->to leavie the ſaid ſumme ſo aſſeſſed by way of diſtreſſe, and ſale of the goods of the perſon ſo aſſeſſed, and refuſing; And if any perſon ſo diſtrained ſhall make reſiſtance; it ſhall be lawfull to and for the reſpective Aſſeſſors and Collectors, or any of them, to call to their aſſiſtance any the Trained Bands of the ſaid City of <hi>London,</hi> or any other His Majeſties Subjects, who are hereby required to be aid<g ref="char:EOLhyphen"/>ing and aſſiſting to the ſaid Aſſeſſors and Collectors in the premi<g ref="char:EOLhyphen"/>ſes; And it is hereby further ordained that the reſpective. Burgeſſes of <hi>Weſtminſter</hi> and <hi>Southwark,</hi> together with the ſeverall Com<g ref="char:EOLhyphen"/>mittees appointed for the ſubſcriptions of Money, Plate, Horſe, Horſemen and Arms within the ſaid City and Borough, ſhall re<g ref="char:EOLhyphen"/>ſpectively have power hereby to nominate Seſſors for the ſame City and Borough, in ſuch manner as the Lord Maior, &amp;c. hath for the City of <hi>London,</hi> and the ſaid Aſſeſſors or any four of them, to name Collectors as aforeſaid; Which ſaid Aſſeſſors and Collectors ſhall have the ſame power reſpectively, within their reſpective li<g ref="char:EOLhyphen"/>mits, as thoſe to be nominated within the ſaid City of <hi>London</hi> have hereby limitted to them. And for the Suburbs of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> the reſpective Knights of the Shires where the ſaid Sub<g ref="char:EOLhyphen"/>urbs are, ſhall have hereby the like power to name Aſſeſſors, and they ſo named, or any four of them, and the Collectors by them to be nominated, or any of them within their reſpective limits, ſhall have the like power reſpectively as the Aſſeſſors and Colle<g ref="char:EOLhyphen"/>ctors for <hi>London</hi> have by vertue of this Ordinance. And be it or<g ref="char:EOLhyphen"/>dained that the ſummes ſo aſſeſſed and levied as aforeſaid ſhall be paid in at Guild-hall <hi>London,</hi> to the hands of Sir <hi>John Wollaſtone,</hi> Knight, <hi>John Warner, John Towes,</hi> and <hi>Thomas Andrews</hi> Alder<g ref="char:EOLhyphen"/>men, or any two of them; And the Aſſeſſors and Collectors to be nominated by vertue hereof ſhall weekly report to the Committee of the Houſe of Commons, for the Propoſitions aforeſaid, what ſums of Money have been aſſeſſed, and what ſums have been levied weekly according to the purport hereof, and the ſaid mo<g ref="char:EOLhyphen"/>nies ſo levied and paid in, ſhall be iſſued forth in ſuch ſort as the other monies raiſed upon the Propoſitions aforeſaid, and not o<g ref="char:EOLhyphen"/>therwiſe.</p>
+            <p>
+               <pb n="4" facs="tcp:174946:4"/>
+               <!-- PDF PAGE 4 -->
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap> deſtroy one another? are the outward bleſſing only of peace, property, and liberty, taken, and forced from Our Subjects? are their Conſcien<g ref="char:EOLhyphen"/>ces free and unaſſaulted by the violence of theſe fire-brands? Sure the liberty and freedom of Conſcience cannot ſuffer by theſe men: Alaſſe! all theſe puniſhments are impoſed upon them becauſe they will not ſubmit to Actions contrary to their naturall loyalty, to their Oathes of Allegiance and ſupremacy, and to their late, voluntary proteſtation, which obliges them to the care of Our perſon and Our juſt Rights.</p>
+            <p>How many perſons of Honour, Quality, and Reputation of the ſe<g ref="char:EOLhyphen"/>verall Counties of England, are now Impriſoned, without any objecti<g ref="char:EOLhyphen"/>on againſt them, but ſuſpition of their loyalty? How many of the graveſt and moſt ſubſtantiall Citizens of London, by whom the govern<g ref="char:EOLhyphen"/>ment and diſcipline of that City was preſerved, are diſgraced, robbed, and impriſoned, without any proceſſe of Law, or colour of accuſati<g ref="char:EOLhyphen"/>on, but of obedience to the Law and Government of the Kingdome? whil'ſt Anabaptiſts and Browniſts with the aſſiſtance of vitious and de<g ref="char:EOLhyphen"/>boſhed perſons, of deſperate Fortunes take upon them to breake up and rifle houſes, as publike and avowed Miniſters of a new invented Autho<g ref="char:EOLhyphen"/>rity; How many godly, pious, and painefull Divines, whoſe lives and learning hath made them of Reverend eſtimation, are now ſlan<g ref="char:EOLhyphen"/>der'd with inclination to popery, diſcountenanced, and impriſoned, for diſcharging their Conſciences in inſtructing the people in the Chriſtian duty of Religion and Obedience, whilſt Schiſmaticall, Illiterate, and ſcandalous Preachers, fill the Pulpits and Churches, with Blaſphemy, Irreverence, and Treaſon, and incite their Auditory to nothing but Murther and Rebellion; We paſſe over the vulgar charm, by w<hi rend="sup">ch</hi> they have captivated ſuch who have beene contented to diſpence with their Conſciences for the preſervation of their eſtates, and by which they perſwade men cheerefully to part with this twentieth part of their E<g ref="char:EOLhyphen"/>ſtate to the good worke in hand, for who-ever will give what hee hath may ſcape robbing; <hi>They ſhall be repaid upon the publike faith, as all other Monies lent upon the Propoſitions of both Houſes;</hi> It may bee ſo, but men muſt bee condemned to a ſtrange unthriftineſſe who will lend upon ſuch ſecurity.</p>
+            <p>The publicke Faith indeed is as great an earneſt as the State can give, and engages the Honour, Reputation and honeſty of the Nation, and is
+<pb n="5" facs="tcp:174946:4"/>
+               <!-- PDF PAGE 4 -->the Act of the Kingdome, 'tis the ſecurity of the King, the Lords and Commons, which can never need an Executor, can never dye, never be Bankrupt, and therefore we willingly conſented to it for indemnity of our good Subjects of <hi>Scotland,</hi> (who we hope will not think the worſe of it, for being ſo often and ſo cheaply mentioned ſince.) But that a Vote of one or both Houſes ſhould be an engagement upon the publicke faith, is as impoſſible, as that the Committee of the Houſe of Commons for Examinations, ſhould be the High Court of Parliament.</p>
+            <p>And what is or can be ſaid with the leaſt ſhadow of reaſon to juſtifie theſe extravagances? We have not lately heard of the old fundamentall Lawes which uſed to warrant the Innovations, this needs a Refuge even below thoſe foundations: They will ſay they cannot manage their great undertakings without ſuch extraordinary wayes; We think ſo too, but that proves only they have undertaken ſomewhat they ought not to un<g ref="char:EOLhyphen"/>dertake, not that it is lawfull for them to do any thing that is convenient for thoſe ends: We remembred them long ago, and we cannot do it too often, of that excellent Speech of M<hi rend="sup">r</hi> 
+               <hi>Pyms. The Law is that which puts a difference betwixt good and evill, betwixt juſt and unjuſt, if you take away the Law, all things will fall into a confuſion, every man will become a Law unto himſelf, which in the depraved condition of humane nature, muſt needs produce many great enormities, Luſt will become a Law, and envy will become a Law, Coveteouſneſse and Ambition will become Lawes, and what Dictates, what Deciſions ſuch Lawes will produce may eaſily be diſcerned.</hi> It may indeed by the ſad inſtances over the whole Kingdome; But will Poſteritie beleeve, that in the ſame Parliament this Doctrine was avowed with that Accla<g ref="char:EOLhyphen"/>mation, and theſe inſtances after produced; That in the ſame Parliament ſuch care was taken that no man ſhould be committed in what caſe ſoever, without the cauſe of his Impriſonment expreſſed, and that al<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> men ſhould be immediatly bayled in all Caſes bay leable, and during th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame Parliament that Alderman <hi>Pennington,</hi> or indeed any body elſe, but the ſworn Miniſters of Juſtice, ſhould impriſon whom they would, and for what they would, and for as long time as they would; That th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King ſhould be reproached with breach of Priviledge for accuſing Si<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Iohn Hotham</hi> of high treaſon, when with force of Armes he kept him ou<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Hull,</hi> and deſpiſed him to his face, becauſe in no caſe a Member o<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> either Houſe might be committed or accuſed without leave of tha<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="6" facs="tcp:174946:5"/>
+               <!-- PDF PAGE 5 -->Houſe, of which he is a Member, and yet that during the ſame Parlia<g ref="char:EOLhyphen"/>ment, the ſame Alderman ſhould commit the Earle of <hi>Middleſex</hi> (a Peer of the Realme) and the Lord <hi>Buckhurſt</hi> (a Member of the Houſe of Commons) to the <hi>Counter</hi> without reprehenſion, that to be a Traitour (which is defined and every man underſtands) ſhould be no crime, and to be called Malignant (which no body knowes the meaning of) ſhould be ground enough for cloſe impriſonment; That a Law ſhould be made, that whoſoever ſhould preſume to take tunnage and poundage without an Act of Parliament, ſhould incurre the penalty of a Premunire, and the ſame Parliament, that the ſame impoſition ſhould be laid upon our Sub<g ref="char:EOLhyphen"/>jects, and taken by an order of both Houſes, without and againſt our Conſent. Laſtly, that the ſame Parliament, a Law ſhould be made to declare the proceedings and judgement upon Ship money to be illegall and voyd, and during that Parliament, that an order of both Houſes ſhall, upon pretence of neceſſity, inable foure men to take away the twentieth part of their Eſtates from all their Neighbours, according to their diſcretion.</p>
+            <p>But our good Subjects will no longer look upon theſe and the like reſults, as upon the Counſells and concluſions of both our Houſes of Parliament; (though all the world knows even that Authority can never juſtifie things unwarrantable by the Law) they well know how few of the Perſons truſted by them are preſent at their conſultations, of above 500. not 80. and of the Houſe of Peers, not a fifth part, that they who are preſent enjoy not the Priviledge and Freedome of Parliament, but are beſieged by an Army, and awed by the ſame tumults, which drave us and their fellow Members from thence, to conſent to what ſome few ſeditions, Schiſmaticall Perſons amongſt them do propoſe; Theſe are the men, who joyning with the <hi>Anabaptiſts</hi> and <hi>Browniſts</hi> of <hi>London,</hi> firſt changed the Government and Diſcipline of that City, and now by the pride and power of that City would undo the Kingdome, whilſt their Lord Major (a Perſon accuſed and known to be guilty of high Treaſon) by a new Legiſlative power of his own, ſuppreſſes and reviles the Book of Common-prayer, robbes and impriſons whom he thinks fit, and with the rabble of his Faction gives Lawes to both Houſes of Parliament, and tells them they will have no Accommodation, whil'ſt the Members ſent and entruſted by their Countryes, are expelled the
+<pb n="7" facs="tcp:174946:5"/>
+               <!-- PDF PAGE 5 -->Houſe, or committed for refuſing to take the Oath of Aſſociation, to live and dye with the Earle of <hi>Eſſex,</hi> as very lately Sir <hi>Sidny Mountague.</hi> Theſe are the men who have preſumed to ſend Ambaſſadors, and to enter into treatyes with forraigne States in their own behalfes, having at this time an Agent of their own with the States of <hi>Holland,</hi> to negotiate for them upon private inſtructions. Theſe are the men, who not thinking they have yet brought miſchiefe enough upon this Kingdome, at this time invite and ſollicite our Subjects of <hi>Scotland</hi> to enter this Land with an Army againſt us. In a word, theſe are the men who have made this laſt devouring ordinance to take away all Law, Liberty, and property from our people, and have by it really acted that upon our people, which with infinite malice, and no colour or ground, was laboured to be infuſed into them to have been our Intention by the Commiſſion of Array.</p>
+            <p>We have done; what power and Authority theſe men have, or will have, we know not, for our ſelf we challenge none ſuch; We look upon the preſſures and inconveniences our good Subjects beare, even by us and our Army, (which the Army firſt raiſed by them enforced us to leavy in our defence, and their refuſall of all offers and deſires of Treaty enforceth us to keep) with very much ſadneſſe of heart; We are ſo farre from requiring a twentieth part of their Eſtates (though for their own viſible preſervation) that as we have already ſold or pawned our own Jewells, and coyned our own Plate, ſo we are willing to ſell all our own Land, and Houſes for their reliefe; yet we do not doubt but our good Subjects will ſeriouſly conſider our Condition and their own Duties, and think our readineſſe to protect them with the utmoſt hazard of our life, deſerves their readineſſe to aſſiſt us with ſome part of their fortunes, and whil'ſt other men give a twentieth part of their Eſtates, to enable them to forfeite the other nineteene, that they will extend themſelves to us in a liberall and free proportion for the preſervation of the reſt, and for the maintenance of Gods true Religion, the Lawes of the Land, the Liberty of the Subject, and the ſafety and very being of Parliaments, and this Kingdome: for if all theſe ever were, or can be in manifeſt dan<g ref="char:EOLhyphen"/>ger, 'tis now in this preſent Rebellion againſt us.</p>
+            <p>Laſtly; We will and require all our loving Subjects of what degree or quality ſoever, as they will anſwer it to God, to us, and to poſterity, by their oathes of Allegeance and Supremacy, as they would not be looked
+<pb n="8" facs="tcp:174946:6"/>
+               <!-- PDF PAGE 6 -->upon now, and remembred hereafter, as Betrayers of the Lawes and Li<g ref="char:EOLhyphen"/>berty they were borne to, that they in no degree ſubmitt to this wilde pretended ordinance, and that they preſume not to give any encourage<g ref="char:EOLhyphen"/>ment or aſſiſtance to the Army now in Rebellion againſt us, which if notwithſtanding they ſhall do, they muſt expect from us the ſevereſt puniſhment the Law can inflict, and a perpetuall Infamy with all good men.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
